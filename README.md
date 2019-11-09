@@ -1,2 +1,2 @@
-# Ender-5
-Archivos de configuración de PrusaSlicer para la impresora Creality Ender 5
+# PrusaSlicer
+Archivos de configuración de PrusaSlicer para la impresoras Creality Ender 5, P3 Steel y Prusa i3 Cubo
